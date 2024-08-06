@@ -11,7 +11,7 @@ import SwiftUI
 struct OSU_Guide_BookApp: App {
     var body: some Scene {
         WindowGroup {
-            compusView()
+            splashScreenView()
         }
     }
 }

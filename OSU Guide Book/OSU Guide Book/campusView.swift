@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct compusView: View {
+struct campusView: View {
     
     @State var campusList = [Campus]()
     var dataService = DataService()
@@ -49,5 +49,5 @@ struct compusView: View {
 }
 
 #Preview {
-    compusView()
+    campusView()
 }

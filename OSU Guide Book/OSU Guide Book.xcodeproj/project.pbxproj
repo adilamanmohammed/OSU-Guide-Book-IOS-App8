@@ -7,11 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A5B43F042C62591E00E4F463 /* splashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B43F032C62591E00E4F463 /* splashScreenView.swift */; };
 		A5D17EA92C5FD81400DDD595 /* DataServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5D17EA82C5FD81400DDD595 /* DataServices.swift */; };
 		A5D17EAD2C6182AB00DDD595 /* campusCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5D17EAC2C6182AB00DDD595 /* campusCard.swift */; };
 		A5D17EB02C61963900DDD595 /* DataBase.json in Resources */ = {isa = PBXBuildFile; fileRef = A5D17EAF2C61963900DDD595 /* DataBase.json */; };
 		A5D54C7E2C38CA83004249E1 /* OSU_Guide_BookApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5D54C7D2C38CA83004249E1 /* OSU_Guide_BookApp.swift */; };
-		A5D54C802C38CA83004249E1 /* compusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5D54C7F2C38CA83004249E1 /* compusView.swift */; };
+		A5D54C802C38CA83004249E1 /* campusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5D54C7F2C38CA83004249E1 /* campusView.swift */; };
 		A5D54C822C38CA84004249E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5D54C812C38CA84004249E1 /* Assets.xcassets */; };
 		A5D54C852C38CA84004249E1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5D54C842C38CA84004249E1 /* Preview Assets.xcassets */; };
 		A5F545082C44282800B1E0A9 /* placeListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F545072C44282800B1E0A9 /* placeListView.swift */; };
@@ -22,12 +23,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A5B43F032C62591E00E4F463 /* splashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = splashScreenView.swift; sourceTree = "<group>"; };
 		A5D17EA82C5FD81400DDD595 /* DataServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataServices.swift; sourceTree = "<group>"; };
 		A5D17EAC2C6182AB00DDD595 /* campusCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = campusCard.swift; path = ../campusCard.swift; sourceTree = "<group>"; };
 		A5D17EAF2C61963900DDD595 /* DataBase.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DataBase.json; sourceTree = "<group>"; };
 		A5D54C7A2C38CA83004249E1 /* OSU Guide Book.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OSU Guide Book.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5D54C7D2C38CA83004249E1 /* OSU_Guide_BookApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OSU_Guide_BookApp.swift; sourceTree = "<group>"; };
-		A5D54C7F2C38CA83004249E1 /* compusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = compusView.swift; sourceTree = "<group>"; };
+		A5D54C7F2C38CA83004249E1 /* campusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = campusView.swift; sourceTree = "<group>"; };
 		A5D54C812C38CA84004249E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A5D54C842C38CA84004249E1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A5F545072C44282800B1E0A9 /* placeListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = placeListView.swift; sourceTree = "<group>"; };
@@ -68,7 +70,8 @@
 			isa = PBXGroup;
 			children = (
 				A5D54C7D2C38CA83004249E1 /* OSU_Guide_BookApp.swift */,
-				A5D54C7F2C38CA83004249E1 /* compusView.swift */,
+				A5D54C7F2C38CA83004249E1 /* campusView.swift */,
+				A5B43F032C62591E00E4F463 /* splashScreenView.swift */,
 				A5F545072C44282800B1E0A9 /* placeListView.swift */,
 				A5F5450F2C44383100B1E0A9 /* placeRowView.swift */,
 				A5F545092C44286600B1E0A9 /* placeDetailView.swift */,
@@ -162,7 +165,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A5D54C802C38CA83004249E1 /* compusView.swift in Sources */,
+				A5D54C802C38CA83004249E1 /* campusView.swift in Sources */,
+				A5B43F042C62591E00E4F463 /* splashScreenView.swift in Sources */,
 				A5F545082C44282800B1E0A9 /* placeListView.swift in Sources */,
 				A5D54C7E2C38CA83004249E1 /* OSU_Guide_BookApp.swift in Sources */,
 				A5D17EA92C5FD81400DDD595 /* DataServices.swift in Sources */,
