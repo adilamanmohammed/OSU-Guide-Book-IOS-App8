@@ -9,13 +9,42 @@ import SwiftUI
 
 struct compusView: View {
     
+    @State var campusList = [Campus]()
+    var dataService = DataService()
+    
     var body: some View {
-        
-        VStack {
-            Image("osuStillwater").resizable()
-                .aspectRatio(contentMode: .fill)
+        NavigationStack{
+            
+            ScrollView(showsIndicators: false)
+            {
+                
+                
+                VStack {
+                    
+                    ForEach(campusList){campuses in
+                        
+                        NavigationLink {
+                            placeListView(campus: campuses)
+                        } label: {
+                            campusCard(campus: campuses)
+                        }
+
+                        
+                    }
+                    
+                }
+                
+                
+            }
+            .padding(.horizontal)
+            
         }
-        .padding()
+        .ignoresSafeArea()
+        .onAppear(){
+            campusList = dataService.getFileData()
+        }
+        
+            
     }
 }
 
