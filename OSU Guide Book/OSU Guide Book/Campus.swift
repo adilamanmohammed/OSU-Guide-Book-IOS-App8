@@ -13,5 +13,4 @@ struct Campus :Identifiable, Decodable {
     var summary : String
     var imageName : String
     var placename : [place]
-    
 }

@@ -1,169 +1,155 @@
-[{"name": "OSU Stillwater", "summary": "TOklahoma State University in Stillwater is a leading public research university known for its vibrant campus life, diverse academic programs, and strong community spirit. It offers a wide range of undergraduate and graduate degrees, fostering innovation, leadership, and academic excellence.",
-    "imageName": "osuStillwater",
-    "placename": [
-        {"name": "Theta Pound",
-            "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-            "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-            "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
-        
-        {"name": "Theta Pound",
-            "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-            "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-            "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
+[
+    {
+        "name": "OSU Stillwater",
+        "summary": "The flagship campus offering a wide range of programs and vibrant student life, known for its research and athletics.",
+        "imageName": "osuStillwater",
+        "placename": [
+            {
+                "name": "Edmon Low Library",
+                "shortDescription": "A central hub for students with vast resources and study spaces.",
+                "longDescription": "The Edmon Low Library, opened in 1953, stands as the academic heart of OSU, housing over 4 million volumes and offering extensive digital resources. Named after the first professional librarian at OSU, Edmon Low, the library provides diverse study spaces, computer labs, and academic support services. Its iconic clock tower is a campus landmark, symbolizing the university's commitment to academic excellence and student success.",
+                "imageName": "osuEdmondLow",
+                "latLogDetails": "36.12336818919176, -97.06982450708318"
+            },
+            {
+                "name": "Theta Pond",
+                "shortDescription": "A serene and picturesque spot on campus.",
+                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring.",
+                "imageName": "osuThetaPound",
+                "latLogDetails": "36.120018, -97.0708324"
+            },
+            {
+                "name": "OSU Student Union",
+                "shortDescription": "A vibrant center for student life with dining, shopping, and meeting spaces.",
+                "longDescription": "Opened in 1951 and expanded several times, the OSU Student Union is among the largest student unions in the U.S. It offers a wide range of services, including dining options, a bookstore, meeting rooms, and lounges. As the social and activity hub for students, it hosts numerous events and activities throughout the year. The Union also features the ConocoPhillips OSU Alumni Center, fostering connections between current students and alumni.",
+                "imageName": "osuStudentUnion",
+                "latLogDetails": "36.1209215, -97.0687539"
+            },
+            {
+                "name": "Gallagher-Iba Arena",
+                "shortDescription": "The iconic sports arena, home to OSU basketball and wrestling.",
+                "longDescription": "Opened in 1938 and named after wrestling coach Edward C. Gallagher and basketball coach Henry Iba, Gallagher-Iba Arena is renowned for its intense atmosphere during athletic events. It hosts OSU basketball and wrestling matches, boasting a rich tradition of excellence in sports. The arena has undergone several expansions, most notably in 2000, to enhance its facilities and accommodate more fans. It's a historic venue celebrated for its passionate crowd and competitive spirit.",
+                "imageName": "osuGallagherIbaArena",
+                "latLogDetails": "36.1257346, -97.0651529"
+            }
+        ]
+    },
 
-        
-        {"name": "Theta Pound",
-            "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-            "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-            "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
 
-        
-        {"name": "Theta Pound",
-            "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-            "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-            "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
 
-    ]},
-    
-    
-    
-    
-    
-    {"name": "OSU Oklahoma City", "summary": "TOklahoma State University in Stillwater is a leading public research university known for its vibrant campus life, diverse academic programs, and strong community spirit. It offers a wide range of undergraduate and graduate degrees, fostering innovation, leadership, and academic excellence.",
+
+    {
+        "name": "OSU Oklahoma City",
+        "summary": "An urban campus offering career and technical education with flexible scheduling, focused on fields like nursing and public safety.",
         "imageName": "osuOkc",
         "placename": [
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuOkc", "latLogDetails": "36.1247, -97.0685"},
-            
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
+            {
+                "name": "OSU-OKC Library",
+                "shortDescription": "A resource-rich library supporting student learning and research.",
+                "longDescription": "The OSU-OKC Library provides an extensive collection of books, journals, and digital resources to support student learning and research. It features modern study spaces, computer labs, and academic support services. The library plays a crucial role in fostering academic success and is a central hub for students seeking information and quiet study areas.",
+                "imageName": "osuOkcLibrary",
+                "latLogDetails": "35.475501, -97.5833"
+            },
+            {
+                "name": "Allied Health Building",
+                "shortDescription": "A facility dedicated to health science education and training.",
+                "longDescription": "The Allied Health Building at OSU-OKC is a state-of-the-art facility dedicated to health science education and training. It includes advanced laboratories, simulation rooms, and classrooms designed to provide hands-on experience for students in programs such as nursing, radiologic technology, and respiratory care. The building supports the development of skilled healthcare professionals through innovative and practical learning environments.",
+                "imageName": "osuhealth-scaled",
+                "latLogDetails": "35.480282, -97.493146"
+            },
+            {
+                "name": "John Kirkpatrick Horticulture Center",
+                "shortDescription": "A hub for horticulture education and plant science research.",
+                "longDescription": "The John Kirkpatrick Horticulture Center is a premier facility for horticulture education and plant science research at OSU-OKC. It features greenhouses, gardens, and laboratories where students gain practical experience in plant cultivation, landscape design, and environmental sustainability. The center fosters a hands-on learning environment, promoting innovation and expertise in horticultural practices.",
+                "imageName": "John-Kirkpatrick",
+                "latLogDetails": "35.402622, -97.500053"
+            },
+            {
+                "name": "Precision Driving Training Center",
+                "shortDescription": "A specialized facility for law enforcement and emergency vehicle operation training.",
+                "longDescription": "The Precision Driving Training Center at OSU-OKC is a specialized facility designed for training law enforcement officers and emergency vehicle operators. It includes a driving track and simulation areas where trainees can practice high-speed maneuvers, emergency response, and pursuit techniques. The center aims to enhance the safety and skills of public safety professionals through rigorous and realistic training scenarios.",
+                "imageName": "PDTC",
+                "latLogDetails": "35.4639965, -97.5762065"
+            }
+        ]
+    },
 
-            
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
 
-            
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
 
-        ]},
-    
-    
-    
-    
-    
-    
-    
-    
-    {"name": "OSU Tulsa", "summary": "TOklahoma State University in Stillwater is a leading public research university known for its vibrant campus life, diverse academic programs, and strong community spirit. It offers a wide range of undergraduate and graduate degrees, fostering innovation, leadership, and academic excellence.",
+
+    {
+        "name": "OSU Tulsa",
+        "summary": "Provides undergraduate and graduate programs with a focus on serving Tulsa’s working adults, featuring advanced educational facilities.",
         "imageName": "osuTulsa",
         "placename": [
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuTulsa", "latLogDetails": "36.1247, -97.0685"},
-            
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
+            {
+                "name": "Helmerich Research Center",
+                "shortDescription": "A premier facility for advanced materials and engineering research.",
+                "longDescription": "The Helmerich Research Center at OSU-Tulsa is a cutting-edge facility dedicated to advanced materials and engineering research. Opened in 2008, it supports interdisciplinary research in areas such as nanotechnology, bioengineering, and energy systems. The center fosters collaboration among scientists, engineers, and students, contributing to technological innovations and economic development in Tulsa and beyond.",
+                "imageName": "HelmerichResearchCenter",
+                "latLogDetails": "36.1630108, -95.9907105"
+            },
+            {
+                "name": "Main Hall Commons",
+                "shortDescription": "A central gathering space for students and events.",
+                "longDescription": "The Main Hall Commons serves as a vibrant central gathering space for OSU-Tulsa students, faculty, and visitors. It offers comfortable seating, study areas, and meeting spaces, hosting various events and activities throughout the year. The commons area promotes community engagement and provides a welcoming environment for academic and social interactions.",
+                "imageName": "MainHallCommons",
+                "latLogDetails": "36.1268436, -97.0589386"
+            },
+            {
+                "name": "North Hall Gallery",
+                "shortDescription": "An art gallery showcasing student and local artwork.",
+                "longDescription": "The North Hall Gallery at OSU-Tulsa showcases a rotating collection of student and local artwork, providing a platform for artistic expression and cultural enrichment. The gallery hosts exhibitions, receptions, and art-related events, highlighting the talents of emerging and established artists. It fosters a creative atmosphere on campus, enhancing the cultural life of the OSU-Tulsa community.",
+                "imageName": "NorthHallGallery",
+                "latLogDetails": "36.1649036, -95.9858601"
+            },
+            {
+                "name": "OSU Tulsa Library",
+                "shortDescription": "A comprehensive library supporting academic research and study.",
+                "longDescription": "The OSU-Tulsa Library provides extensive resources to support academic research and study, including books, journals, digital collections, and multimedia materials. It offers quiet study areas, computer labs, and research assistance, catering to the needs of students and faculty. The library is a vital academic resource, fostering a conducive environment for learning and scholarly pursuits.",
+                "imageName": "osuTulsaLibrary",
+                "latLogDetails": "36.1649036, -95.9858601"
+            }
+        ]
+    },
 
-            
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
 
-            
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
 
-        ]},
-    
-    
-    
-    
-    
-    
-    {"name": "OSU Tulsa Health", "summary": "TOklahoma State University in Stillwater is a leading public research university known for its vibrant campus life, diverse academic programs, and strong community spirit. It offers a wide range of undergraduate and graduate degrees, fostering innovation, leadership, and academic excellence.",
+
+
+    {
+        "name": "OSU Tulsa Health",
+        "summary": "A leading medical education and research campus dedicated to improving healthcare in rural and underserved areas through innovative programs.",
         "imageName": "osuTulsaHealth",
         "placename": [
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
-            
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
-
-            
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
-
-            
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
-
-        ]},
-    
-    
-    
-    
-    
-    
-    {"name": "OSU Okmulgee", "summary": "TOklahoma State University in Stillwater is a leading public research university known for its vibrant campus life, diverse academic programs, and strong community spirit. It offers a wide range of undergraduate and graduate degrees, fostering innovation, leadership, and academic excellence.",
-        "imageName": "osuOkmulgee",
-        "placename": [
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
-            
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
-
-            
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
-
-            
-            {"name": "Theta Pound",
-                "shortDescription" : "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus",
-                "longDescription": "Theta Pond at Oklahoma State University in Stillwater is a serene and picturesque spot on campus, known for its tranquil atmosphere and scenic beauty. The pond is surrounded by lush greenery, flowering plants, and shaded walking paths, making it a favorite spot for students, faculty, and visitors to relax and unwind. It features a charming bridge and benches where people can sit and enjoy the view. Theta Pond is also home to various wildlife, including ducks and fish, adding to its natural appeal. The area is often used for picnics, quiet study sessions, and photography, especially during the fall and spring when the surrounding foliage is at its most vibrant. This beloved campus landmark also hosts events and gatherings, contributing to the sense of community at OSU. Its serene environment makes it an ideal place for reflection and leisure amidst the bustling university life.",
-                "imageName": "osuThetaPound", "latLogDetails": "36.1247, -97.0685"},
-
-        ]}
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
+            {
+                "name": "OSU Center for Health Sciences",
+                "shortDescription": "A leading institution for medical education and research.",
+                "longDescription": "The OSU Center for Health Sciences (CHS) is dedicated to training future physicians and healthcare professionals. It offers a range of programs in osteopathic medicine, biomedical sciences, and forensic sciences. The CHS is known for its innovative research, state-of-the-art facilities, and commitment to addressing healthcare needs in rural and underserved communities. It plays a pivotal role in improving healthcare delivery through education, research, and community engagement.",
+                "imageName": "osuCHS",
+                "latLogDetails": "36.1386179, -96.0051038"
+            },
+            {
+                "name": "OSU Medical Center",
+                "shortDescription": "A full-service teaching hospital affiliated with OSU.",
+                "longDescription": "The OSU Medical Center is a comprehensive teaching hospital that provides a wide range of medical services, including emergency care, surgery, and specialty clinics. It serves as a primary clinical training site for medical students and residents from the OSU Center for Health Sciences. The medical center is committed to delivering high-quality patient care and advancing medical knowledge through education and research.",
+                "imageName": "osuMC",
+                "latLogDetails": "36.1466396, -95.9995885"
+            },
+            {
+                "name": "Tandy Medical Academic Building",
+                "shortDescription": "A modern facility for medical education and simulation training.",
+                "longDescription": "The Tandy Medical Academic Building is a state-of-the-art facility at OSU-CHS designed to enhance medical education through advanced simulation training. It includes high-fidelity simulation labs, classrooms, and study spaces, providing students with hands-on learning experiences in a realistic clinical environment. The building supports innovative teaching methods and prepares students for the complexities of modern healthcare practice.",
+                "imageName": "osuTandyMedicalBuilding",
+                "latLogDetails": "36.092236, -95.923175"
+            },
+            {
+                "name": "OSU Health Care Center",
+                "shortDescription": "A clinic offering primary and specialty healthcare services.",
+                "longDescription": "The OSU Health Care Center provides comprehensive healthcare services, including primary care, specialty care, and preventive health services. The clinic is staffed by experienced physicians, residents, and healthcare professionals from OSU-CHS. It focuses on patient-centered care, offering personalized treatment plans and promoting overall health and well-being. The center also serves as a clinical training site for medical students and residents.",
+                "imageName": "osuHCCT",
+                "latLogDetails": "36.1289987, -96.0068328"
+            }
+        ]
+    }
 ]
-

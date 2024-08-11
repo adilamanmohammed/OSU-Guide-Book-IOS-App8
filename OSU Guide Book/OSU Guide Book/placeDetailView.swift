@@ -20,7 +20,7 @@ struct placeDetailView: View {
                 .aspectRatio(contentMode: .fill)
                 .frame(height: 300)
             
-            ScrollView{
+            ScrollView(showsIndicators: false){
                 
                 VStack(alignment: .leading, spacing:20){
                     

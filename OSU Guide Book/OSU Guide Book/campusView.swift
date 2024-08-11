@@ -13,6 +13,7 @@ struct campusView: View {
     var dataService = DataService()
     
     var body: some View {
+        
         NavigationStack{
             
             ScrollView(showsIndicators: false)

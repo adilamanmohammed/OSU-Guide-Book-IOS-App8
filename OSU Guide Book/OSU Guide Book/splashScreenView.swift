@@ -32,7 +32,7 @@ struct splashScreenView: View {
                 .scaleEffect(size)
                 .opacity(opacity)
                 .onAppear() {
-                    withAnimation(.easeOut(duration: 1.2)) {
+                    withAnimation(.easeIn(duration: 2.0)) {
                         self.size = 0.9
                         self.opacity = 1.0
                     }
