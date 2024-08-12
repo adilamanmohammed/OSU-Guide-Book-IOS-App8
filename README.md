@@ -4,7 +4,7 @@ Here's an enhanced and more visually appealing version of the `README.md` with b
 
 # **OSU Guide Book App (iOS)**
 
-![OSU Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oklahoma_State_University_system_logo.svg/1024px-Oklahoma_State_University_system_logo.svg.png)
+![OSU Logo](osu_logo.svg)
 
 ## **Overview**
 
