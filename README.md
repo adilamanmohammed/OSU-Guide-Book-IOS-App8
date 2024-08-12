@@ -70,5 +70,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## **Contact**
 
-For any inquiries or questions, please contact me at **[your email address]** or connect with me on **[LinkedIn](https://www.linkedin.com/in/yourprofile)**.
+For any inquiries or questions, please contact me at **[your email address]** or connect with me on **[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammedadilaman/))**.
 
