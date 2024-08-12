@@ -72,6 +72,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 For any inquiries or questions, please contact me at **[your email address]** or connect with me on **[LinkedIn](https://www.linkedin.com/in/yourprofile)**.
 
----
-
-This version includes bold text, emojis, and structured sections for better readability and attractiveness. Replace the placeholders with your actual information to complete it.
